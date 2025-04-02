@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0066-plus-one) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -30,6 +31,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
