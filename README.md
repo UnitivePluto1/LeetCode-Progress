@@ -10,6 +10,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0067-add-binary) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/1894-merge-strings-alternately) |
@@ -89,6 +91,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
