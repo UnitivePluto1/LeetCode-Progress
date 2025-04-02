@@ -41,12 +41,14 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0228-summary-ranges) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
