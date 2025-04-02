@@ -66,6 +66,7 @@
 | [0283-move-zeroes](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0283-move-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0643-maximum-average-subarray-i) |
+| [1755-defuse-the-bomb](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/1755-defuse-the-bomb) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [0219-contains-duplicate-ii](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0643-maximum-average-subarray-i) |
+| [1755-defuse-the-bomb](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/1755-defuse-the-bomb) |
 ## Matrix
 |  |
 | ------- |
