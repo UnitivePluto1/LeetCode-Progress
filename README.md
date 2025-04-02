@@ -37,6 +37,7 @@
 | [0066-plus-one](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
