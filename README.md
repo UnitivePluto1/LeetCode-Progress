@@ -17,6 +17,7 @@
 | [0027-remove-element](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -25,6 +26,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0125-valid-palindrome) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/1894-merge-strings-alternately) |
 ## Math
