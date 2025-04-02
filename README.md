@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0027-remove-element) |
 | [1894-merge-strings-alternately](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -27,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
