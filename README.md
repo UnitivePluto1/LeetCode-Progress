@@ -60,6 +60,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0228-summary-ranges) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -131,6 +133,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0643-maximum-average-subarray-i) |
@@ -156,4 +159,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0187-repeated-dna-sequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
