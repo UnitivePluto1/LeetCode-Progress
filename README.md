@@ -21,4 +21,12 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0007-reverse-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/1146-greatest-common-divisor-of-strings) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
