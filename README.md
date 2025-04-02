@@ -60,6 +60,7 @@
 | [0136-single-number](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0283-move-zeroes) |
@@ -73,6 +74,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0219-contains-duplicate-ii) |
 ## Matrix
 |  |
 | ------- |
