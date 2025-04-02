@@ -19,5 +19,6 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0007-reverse-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
