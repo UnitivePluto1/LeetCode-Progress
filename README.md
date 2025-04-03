@@ -61,6 +61,7 @@
 | [0088-merge-sorted-array](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0217-contains-duplicate) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0268-missing-number) |
 ## Bit Manipulation
