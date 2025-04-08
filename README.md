@@ -39,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0067-add-binary) |
@@ -155,6 +156,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0141-linked-list-cycle) |
@@ -178,5 +180,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/UnitivePluto1/LeetCode-Progress/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
