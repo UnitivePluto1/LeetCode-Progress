@@ -1,5 +1,4 @@
-# LeetCode-Progress
-<!---LeetCode Topics Start-->
+Hi, This repo includes all the questions I've completed in leetcode :D
 # LeetCode Topics
 ## Database
 |  |
