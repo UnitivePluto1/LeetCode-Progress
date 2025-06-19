@@ -1,13 +1,9 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        hashM = defaultdict(int)
-        n = len(nums)
+        res, count = 0,0
 
-        for i in range(n):
-            hashM[nums[i]] += 1
-        
-        n = n//2
-        for k,v in hashM.items():
-            if v > n:
-                return k
-        return 0
+        for i in nums:
+            if count == 0:
+                res = i
+            count += (1 if i == res else -1)
+        return res
