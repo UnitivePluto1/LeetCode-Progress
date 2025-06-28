@@ -5,19 +5,17 @@
 #         self.next = next
 class Solution:
     def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        hmap = dict()
-        curr = head
-        dummy = ListNode()
-        temp = dummy
+        dummy=ListNode(0,head)
+        prev=dummy
+        cur=head
+        while cur:
+            if cur.next and cur.val==cur.next.val:
 
-
-        while curr:
-            hmap[curr.val] = hmap.get(curr.val, 0) + 1
-            curr = curr.next
-        
-        for num, val in hmap.items():
-            if val == 1:
-                dummy.next = ListNode(num)
-                dummy = dummy.next
-
-        return temp.next
+                duplicate_val=cur.val
+                while cur and cur.val==duplicate_val:
+                    cur = cur.next
+                prev.next=cur
+            else:
+                prev = prev.next
+                cur = cur.next
+        return dummy.next
