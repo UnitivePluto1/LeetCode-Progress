@@ -1,16 +1,9 @@
 class Solution:
     def removeDuplicates(self, s: str) -> str:
         stack = []
-        word = ""
         for letter in s:
-            if len(stack) == 0:
-                stack.append(letter)
-                continue
-            if stack[-1] != letter:
-                stack.append(letter)
-            else:
+            if stack and stack[-1] == letter: 
                 stack.pop()
-                continue
-        while stack:
-            word += stack.pop()
-        return word[::-1]
+            else:
+                stack.append(letter)
+        return ''.join(stack)
