@@ -14,9 +14,10 @@ class Solution:
             else:
                 findLeafArr(root.left, array)
                 findLeafArr(root.right, array)
-            return array
 
-        Leaf1 = findLeafArr(root1, [])
-        Leaf2 = findLeafArr(root2, [])
+        Leaf1 =  []
+        findLeafArr(root1, Leaf1)
+        Leaf2 = []
+        findLeafArr(root2, Leaf2)
 
         return Leaf1 == Leaf2
