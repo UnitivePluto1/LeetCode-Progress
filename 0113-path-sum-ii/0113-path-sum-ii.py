@@ -9,14 +9,14 @@ class Solution:
         def find(root, targetSum, path):
             if not root:
                 return
-            new = path + [root.val]
+            path.append(root.val)
 
             if not root.left and not root.right and targetSum == root.val:
-                ans.append(new)
+                ans.append(path[:])
             else:
-                find(root.left, targetSum - root.val, new)
-                find(root.right, targetSum - root.val, new)
-            
+                find(root.left, targetSum - root.val, path)
+                find(root.right, targetSum - root.val, path)
+            path.pop()
         ans = []
         find(root,targetSum, [])
         return ans
